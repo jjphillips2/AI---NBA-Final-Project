@@ -1,1 +1,9 @@
 # AI---NBA-Final-Project
+## Description 
+As part of a comprehensive analysis of NBA shot outcomes, I spearheaded a project focused on processing and analyzing a vast dataset comprising over 100,000 NBA shots. This dataset encompassed crucial variables including player and defender positions, as well as shot types, providing rich insights into the dynamics of in-game shooting scenarios.
+
+Utilizing advanced machine learning techniques, I embarked on the development and optimization of a predictive model aimed at forecasting NBA shot success with exceptional accuracy. Leveraging a combination of logistic regression, decision trees, and neural networks, I meticulously crafted a model architecture primed for high-performance prediction. The model was meticulously trained on an extensive dataset of over 80,000 labeled shots, ensuring robust learning and adaptability to diverse game situations.
+
+To gauge the efficacy and reliability of the developed model, rigorous evaluation processes were enacted. A separate test set comprising 20,000 shots was meticulously analyzed, with a primary objective of achieving superior precision and recall rates. Through iterative refinement and validation, the model demonstrated remarkable performance, nearing the ambitious targets set forth. The overarching goal was to achieve a minimum of 90% accuracy in predicting shot success, accompanied by precision and recall rates of 85% and 87%, respectively.
+
+This project not only provided valuable insights into the determinants of NBA shot outcomes but also showcased the efficacy of advanced machine learning methodologies in sports analytics. The predictive model developed serves as a potent tool for basketball analytics, offering teams and analysts a data-driven edge in strategic decision-making and player development efforts.
